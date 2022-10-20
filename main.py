@@ -17,3 +17,5 @@ print("Meu apelido é: "+nome)
 # para exibir a frase da idade
 # para converter inteiro para string utiliza-se a função (str)
 print("Minha idade atual é: "+str(idade))
+print(f"Minha idade atual é: {idade}\n")
+print("Minha idade é {}".format(idade))
